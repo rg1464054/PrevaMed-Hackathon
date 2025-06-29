@@ -77,7 +77,7 @@ npm install
 ## ⚛️ Run the React Frontend
 
 ```bash
-npm run dev
+npm start
 ```
 
 ## 🧮 Run the Streamlit Backend
@@ -85,5 +85,5 @@ npm run dev
 Navigate to your backend ML script directory and run:
 
 ```bash
-streamlit run run_all_models.bat
+run_all_models.bat
 ```
