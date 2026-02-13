@@ -85,5 +85,5 @@ npm start
 Navigate to your backend ML script directory and run:
 
 ```bash
-run_all_models.bat
+.\run_all_models.bat
 ```
